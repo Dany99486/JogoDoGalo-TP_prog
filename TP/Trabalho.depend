@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1655579943 source:c:\users\danie\desktop\trabalho programação final\function.c
+	"main_header.h"
+
+1655569426 c:\users\danie\desktop\trabalho programação final\main_header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"listas&files.h"
+	"menu&board.h"
+	"function.h"
+	"minijogo.h"
+	"matdin.h"
+	"utils.h"
+	"matdin.h"
+
+1655574360 c:\users\danie\desktop\trabalho programação final\listas&files.h
+
+1655568270 c:\users\danie\desktop\trabalho programação final\menu&board.h
+
+1655574360 c:\users\danie\desktop\trabalho programação final\function.h
+
+1655577642 c:\users\danie\desktop\trabalho programação final\minijogo.h
+
+1655568491 c:\users\danie\desktop\trabalho programação final\matdin.h
+
+1652729923 c:\users\danie\desktop\trabalho programação final\utils.h
+
+1655642994 source:c:\users\danie\desktop\trabalho programação final\listas&files.c
+	"main_header.h"
+
+1655642994 source:c:\users\danie\desktop\trabalho programação final\main.c
+	"main_header.h"
+
+1655567645 source:c:\users\danie\desktop\trabalho programação final\matdin.c
+	"main_header.h"
+
+1655642994 source:c:\users\danie\desktop\trabalho programação final\menu&board.c
+	"main_header.h"
+
+1655579856 source:c:\users\danie\desktop\trabalho programação final\minijogo.c
+	"main_header.h"
+
+1655568924 source:c:\users\danie\desktop\trabalho programação final\utils.c
+	"main_header.h"
+
